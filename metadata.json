@@ -1,0 +1,6 @@
+{
+  "name": "PixelLab Design",
+  "description": "Mobile Graphic Design Studio - Create stunning 3D typography, social media banners, YouTube thumbnails, posters, stickers, and custom vector designs with layers and rich canvas editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
